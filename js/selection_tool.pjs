@@ -3,7 +3,7 @@ var fEditBox = false;
 
 var basePath = new Path();
 basePath.strokeColor = '#aa0000';
-basePath.strokeWidth = 4;
+basePath.strokeWidth = 3;
 
 var box = new Path();
 
@@ -11,6 +11,8 @@ function onMouseDown(event) {
   if (fEditBase) {
     if (basePath.segments.length == 0) {
       basePath.add(event.point);
+      var start = new Path.Circle(event.point, 4);
+      start.fillColor = '#aa0000';
     }
 
     basePath.add(event.point);
