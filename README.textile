@@ -2,8 +2,6 @@ h1. toponymotator
 
 A quick proof of concept built with HTML canvas/Paper.js. 
 
-http://rsimon.github.com/toponymotator
-
 The plan: integration into (possibly) OpenLayers and/or Seadragon AJAX; backend to be provided by yuma.js.
 
 !http://rsimon.github.com/img/screenshot-sample1.png!
@@ -11,3 +9,5 @@ The plan: integration into (possibly) OpenLayers and/or Seadragon AJAX; backend 
 !http://rsimon.github.com/img/screenshot-sample2.png!
 
 P.S.: Sorry for the blue rectangular dots in the screenshots... artefacts from the screenshot tool - NOT part of toponymotator.
+
+http://rsimon.github.com/toponymotator
