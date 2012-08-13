@@ -1,4 +1,4 @@
 h1. topoynomotator
 
-!http://raw.github.com/rsimon/toponymotator/master/img/screenshot-sample.png!
+!http://rsimon.github.com/img/screenshot-sample.png!
 
