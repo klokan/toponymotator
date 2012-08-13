@@ -2,7 +2,7 @@ h1. toponymotator
 
 A quick proof of concept built with HTML canvas/Paper.js. 
 
-[http://rsimon.github.com/toponymotator](http://rsimon.github.com/toponymotator)
+http://rsimon.github.com/toponymotator:"http://rsimon.github.com/toponymotator"
 
 The plan: integration into (possibly) OpenLayers and/or Seadragon AJAX; backend to be provided by yuma.js.
 
