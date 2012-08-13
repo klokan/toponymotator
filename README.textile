@@ -1,6 +1,6 @@
 h1. toponymotator
 
-A little hack to prove the concept. Built with HTML canvas/Paper.js.
+A quick proof of concept built with HTML canvas/Paper.js. (Backend to be provided by yuma.js.)
 
 !http://rsimon.github.com/img/screenshot-sample1.png!
 
