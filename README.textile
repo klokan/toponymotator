@@ -1,4 +1,4 @@
-h1. topoynomotator
+h1. toponymotator
 
 A little hack to prove the concept. Built with HTML canvas/Paper.js.
 
