@@ -1,6 +1,9 @@
 h1. toponymotator
 
-A little hack to prove the concept. Built with HTML canvas/Paper.js.
+A quick proof of concept built with HTML canvas/Paper.js. (Integration into, possibly, OpenLayers and/or Seadragon AJAX; backend to be provided by yuma.js.)
 
-!http://rsimon.github.com/img/screenshot-sample.png!
+!http://rsimon.github.com/img/screenshot-sample1.png!
 
+!http://rsimon.github.com/img/screenshot-sample2.png!
+
+P.S.: Sorry for the blue rectangular dots in the screenshots... artefacts from the screenshot tool - NOT part of toponymotator.
