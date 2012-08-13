@@ -1,6 +1,6 @@
 h1. toponymotator
 
-A quick proof of concept built with HTML canvas/Paper.js. (Integration into OpenLayers and/or Seadragon AJAX; backend to be provided by yuma.js.)
+A quick proof of concept built with HTML canvas/Paper.js. (Integration into, possibly, OpenLayers and/or Seadragon AJAX; backend to be provided by yuma.js.)
 
 !http://rsimon.github.com/img/screenshot-sample1.png!
 
