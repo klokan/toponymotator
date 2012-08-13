@@ -3,6 +3,7 @@ var fEditBox = false;
 
 var basePath = new Path();
 basePath.strokeColor = '#aa0000';
+basePath.strokeWidth = 4;
 
 var box = new Path();
 
