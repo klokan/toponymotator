@@ -4,3 +4,5 @@ A little hack to prove the concept. Built with HTML canvas/Paper.js.
 
 !http://rsimon.github.com/img/screenshot-sample.png!
 
+!http://rsimon.github.com/img/screenshot-sample2.png!
+
